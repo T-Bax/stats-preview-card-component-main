@@ -1,0 +1,11 @@
+body{
+    
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    min-height: 100vh; 
+    margin: 0;
+    background-color: var(--clr-primary-verydarkblue);
+    font-family: var(--ff-primary);
+    color: var(--clr-neutral-transparentwhite_a);
+}
